@@ -24,4 +24,6 @@ user clicks on a region, the GUI must show all the lions and ponds inside the re
 
 ## Output
 
+The code was developed in java using the java awt package and uses oracle spatial geometry for querying Oracle Spatial Database.
+![Output Image](https://github.com/rahulravindran0108/Spatial-Viewer-Panthera/tree/master/images/output.png)
 
